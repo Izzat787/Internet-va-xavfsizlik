@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    padding-left: 20px;
+}
+
+.lol1{
+    color: gold;
+    padding-left: 20px;
+}
+.lol2{
+width: 1450px;
+ height: 125px;
+ background-color: rgba(107, 98, 98, 0.296);
+ border-radius: 10px;
+ padding-left: 20px;
+} 
+.p1{
+    color: white;
+    padding-left: 20px;
+}
+.p2{
+    color: white;
+    padding-left: 20px;
+}
+.p3{
+    color: white;
+    padding-left: 20px;
+}
+.p4{
+    color: white;
+    padding-left: 20px;
+}
+.p5{
+    color: white;
+    padding-left: 20px;
+}
+.lol3{
+    color: gold;
+    padding-left: 20px;
+}
+.lol4{
+width: 1450px;
+ height: 225px;
+ background-color: rgba(107, 98, 98, 0.296);
+ border: 3px solid gold;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.lol5{
+width: 100px;
+height: 100px;
+border: 3px solid gold;
+ border-radius: 10px;
+ padding-left: 5px;
+ 
+ 
+}
+.lol6{
+    width: 1450px;
+ height: 225px;
+ background-color: rgba(107, 98, 98, 0.296);
+  border: 3px solid gold;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.lol7{
+    width: 100px;
+height: 100px;
+border: 3px solid gold;
+ border-radius: 10px;
+ padding-left: 5px;
+}
+.ii{
+    background-color: rgb(38, 30, 30);
+    border-radius: 10px;
+    width: 1500px;
+    height: 730px;
+}
